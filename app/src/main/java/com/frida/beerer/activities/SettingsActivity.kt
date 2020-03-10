@@ -1,4 +1,4 @@
-package com.frida.beerer
+package com.frida.beerer.activities
 
 import android.os.Bundle
 import android.text.Editable
@@ -9,6 +9,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.textfield.TextInputEditText
+import com.frida.beerer.R
 
 class SettingsActivity : AppCompatActivity() {
 
