@@ -1,8 +1,8 @@
-package com.frida.beerer
+package com.frida.beerer.activities
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import kotlinx.android.synthetic.main.activity_main.*
+import com.frida.beerer.R
 
 class SettingsActivity : AppCompatActivity() {
 
